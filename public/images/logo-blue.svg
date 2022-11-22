@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.5in" height="11in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8500 11000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="12435.75" y="5208.97" width="616.83" height="607.76"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="10068.27" y="7919.18" width="520" height="173.33"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="12435.75" y="5208.96" width="616.83" height="607.77" xlink:href="logo-blue_Images\logo-blue_ImgID1.png"/>
+  </g>
+  <g id="_2177942952544">
+   <path class="fil0" d="M12939.52 2074.45l0 -51.06 109.81 0c27.46,-1.31 82.36,10.21 82.36,66.77 0,56.56 -39.22,70.7 -58.83,70.7l-82.37 0 0 102.12 -54.91 0 0 -153.18 133.35 0c3.93,-1.31 11.77,-7.85 11.77,-19.64 0,-11.78 -10.46,-15.71 -15.69,-15.71l-125.5 0z"/>
+   <polygon class="fil0" points="13063.61,2181.26 13033.65,2181.26 13033.65,2320.16 13063.61,2320.16 13063.61,2260.25 13126.26,2260.25 13126.26,2320.16 13156.22,2320.16 13156.22,2181.26 13126.26,2181.26 13126.26,2230.29 13063.61,2230.29 "/>
+   <polygon class="fil0" points="13207.96,2181.26 13178.01,2181.26 13178.01,2320.16 13207.96,2320.16 "/>
+   <polygon class="fil0" points="13265.16,2181.26 13227.03,2181.26 13278.78,2273.87 13297.84,2238.46 "/>
+   <polygon class="fil0" points="13387.72,2181.26 13349.59,2181.26 13289.67,2292.93 13303.29,2320.16 13311.46,2320.16 "/>
+   <polygon class="fil0" points="13404.06,2211.22 13404.06,2181.26 13529.35,2181.26 13529.35,2211.22 "/>
+   <polygon class="fil0" points="13515.73,2230.29 13404.06,2230.29 13404.06,2320.16 13529.35,2320.16 13529.35,2290.21 13434.02,2290.21 13434.02,2260.25 13515.73,2260.25 "/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="10068.27" y="7919.18" width="520" height="173.33" xlink:href="logo-blue_Images\logo-blue_ImgID2.png"/>
+  </g>
+ </g>
+</svg>
